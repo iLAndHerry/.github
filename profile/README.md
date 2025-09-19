@@ -1,7 +1,7 @@
 <img width="900" height="500" alt="1" src="https://github.com/user-attachments/assets/41ee5556-0421-4d48-89db-242315c6ec85" />
 
 # ☀️ 오늘의 날씨
-내 마음을 시각화하여 꺼내놓고, 필요한 순간 누군가에게 건넬 수 있는 작은 감정 기록 도구
+<img width="900" height="500" alt="Frame 633554" src="https://github.com/user-attachments/assets/9152478d-4dbd-4f34-8511-0155c98e9ef8" />
 
 # 👥 Team 
 <table>
