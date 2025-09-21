@@ -1,6 +1,6 @@
 <img width="900" height="500" alt="1" src="https://github.com/user-attachments/assets/41ee5556-0421-4d48-89db-242315c6ec85" />
 
-# ☀️ 오늘의 날씨
+# ☀️ 하루의 날씨
 <img width="900" height="500" alt="Frame 633554" src="https://github.com/user-attachments/assets/9152478d-4dbd-4f34-8511-0155c98e9ef8" />
 
 # 👥 Team 
